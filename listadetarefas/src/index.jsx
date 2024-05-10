@@ -4,6 +4,7 @@ import { BrowserRouter , Route, Routes} from "react-router-dom";
 
 import PaginaIncial from './PaginaInicial.jsx';
 import ListaDeTarefas from './ListaDeTarefas.jsx';
+import Contador from './contador.jsx'
 
 
 
@@ -14,9 +15,10 @@ root.render(
       <Routes>
           <Route path='/' Component={PaginaIncial}/>
           <Route path='/listadetarefas' Component={ListaDeTarefas}/>
+          <Route path='/contador' Component={Contador}/>
       </Routes >
     </BrowserRouter>
-  </React.StrictMode>
+  </React.StrictMode> 
 );
 
 
