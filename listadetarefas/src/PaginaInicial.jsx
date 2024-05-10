@@ -8,7 +8,8 @@ function PaginaIncial(){
                 <h1>Bem vindo ao treinamento React</h1>
                 <h2>Aqui estão os projetos disponiveis:</h2>
                 <Link to='/listadetarefas'>Lista de Tarefas</Link><br />
-                <Link to='/contador'>Contador</Link>
+                <Link to='/contador'>Contador</Link><br />
+                <Link to='/Relogio'>Contador</Link>
             </div>
         </div>
     )
