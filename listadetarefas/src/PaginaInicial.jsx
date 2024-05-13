@@ -9,7 +9,8 @@ function PaginaIncial(){
                 <h2>Aqui estão os projetos disponiveis:</h2>
                 <Link to='/listadetarefas'>Lista de Tarefas</Link><br />
                 <Link to='/contador'>Contador</Link><br />
-                <Link to='/Relogio'>Relogio Digital</Link>
+                <Link to='/Relogio'>Relogio Digital</Link><br />
+                <Link to='/ConversorDeMoeda'>Conversor de Moedas</Link>
             </div>
         </div>
     )

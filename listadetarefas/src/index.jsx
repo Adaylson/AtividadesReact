@@ -6,6 +6,7 @@ import PaginaIncial from './PaginaInicial.jsx';
 import ListaDeTarefas from './ListaDeTarefas.jsx';
 import Contador from './contador.jsx'
 import Relogio from './RelogioDigital.jsx';
+import ConversorMoeda from './Conversor.jsx';
 
 
 
@@ -18,6 +19,7 @@ root.render(
           <Route path='/listadetarefas' Component={ListaDeTarefas}/>
           <Route path='/contador' Component={Contador}/>
           <Route path='/Relogio' Component={Relogio}/>
+          <Route path='/ConversorDeMoeda' Component={ConversorMoeda}/>
       </Routes >
     </BrowserRouter>
   </React.StrictMode> 
