@@ -8,6 +8,7 @@ import Contador from './contador.jsx'
 import Relogio from './RelogioDigital.jsx';
 import ConversorMoeda from './Conversor.jsx';
 import Galeria from './Galeria.jsx';
+import ListadeContatos from './ListaContatos.jsx';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -21,6 +22,7 @@ root.render(
           <Route path='/Relogio' Component={Relogio}/>
           <Route path='/ConversorDeMoeda' Component={ConversorMoeda}/>
           <Route path='/Galeria' Component={Galeria}/>
+          <Route path='/listadecontatos' Component={ListadeContatos}/>
       </Routes >
     </BrowserRouter>
   </React.StrictMode> 

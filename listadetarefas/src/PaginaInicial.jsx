@@ -11,7 +11,8 @@ function PaginaIncial(){
                 <Link to='/contador'>Contador</Link><br />
                 <Link to='/Relogio'>Relogio Digital</Link><br />
                 <Link to='/ConversorDeMoeda'>Conversor de Moedas</Link><br />
-                <Link to='/Galeria'>Galeria de Fotos</Link>
+                <Link to='/Galeria'>Galeria de Fotos</Link><br />
+                <Link to='/listadecontatos'>Lista de contatos</Link>
             </div>
         </div>
     )
