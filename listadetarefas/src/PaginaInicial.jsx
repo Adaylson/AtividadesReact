@@ -10,7 +10,8 @@ function PaginaIncial(){
                 <Link to='/listadetarefas'>Lista de Tarefas</Link><br />
                 <Link to='/contador'>Contador</Link><br />
                 <Link to='/Relogio'>Relogio Digital</Link><br />
-                <Link to='/ConversorDeMoeda'>Conversor de Moedas</Link>
+                <Link to='/ConversorDeMoeda'>Conversor de Moedas</Link><br />
+                <Link to='/Galeria'>Galeria de Fotos</Link>
             </div>
         </div>
     )
