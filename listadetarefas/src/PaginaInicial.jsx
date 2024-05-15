@@ -12,7 +12,8 @@ function PaginaIncial(){
                 <Link to='/Relogio'>Relogio Digital</Link><br />
                 <Link to='/ConversorDeMoeda'>Conversor de Moedas</Link><br />
                 <Link to='/Galeria'>Galeria de Fotos</Link><br />
-                <Link to='/listadecontatos'>Lista de contatos</Link>
+                <Link to='/listadecontatos'>Lista de contatos</Link><br />
+                <Link to='/conometro'>Conômetro</Link>
             </div>
         </div>
     )
