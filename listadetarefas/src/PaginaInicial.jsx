@@ -14,6 +14,8 @@ function PaginaIncial(){
                 <Link to='/Galeria'>Galeria de Fotos</Link><br />
                 <Link to='/listadecontatos'>Lista de contatos</Link><br />
                 <Link to='/conometro'>Conômetro</Link>
+                <Link to='/quiz'>Quiz de perguntas</Link>
+                <Link to='/Calculadora'>Calculadora</Link>
             </div>
         </div>
     )
