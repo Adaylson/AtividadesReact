@@ -13,8 +13,8 @@ function PaginaIncial(){
                 <Link to='/ConversorDeMoeda'>Conversor de Moedas</Link><br />
                 <Link to='/Galeria'>Galeria de Fotos</Link><br />
                 <Link to='/listadecontatos'>Lista de contatos</Link><br />
-                <Link to='/conometro'>Conômetro</Link>
-                <Link to='/quiz'>Quiz de perguntas</Link>
+                <Link to='/conometro'>Conômetro</Link><br />
+                <Link to='/quiz'>Quiz de perguntas</Link><br />
                 <Link to='/Calculadora'>Calculadora</Link>
             </div>
         </div>
