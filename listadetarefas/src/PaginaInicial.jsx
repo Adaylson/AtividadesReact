@@ -16,6 +16,7 @@ function PaginaIncial(){
                 <Link to='/conometro'>Conômetro</Link><br />
                 <Link to='/quiz'>Quiz de perguntas</Link><br />
                 <Link to='/Calculadora'>Calculadora</Link>
+                <Link to='/filme'>Filme</Link>
             </div>
         </div>
     )
